@@ -1,0 +1,7 @@
+{
+"name": "Republic_Crypto",
+"description": "",
+"ticker": "REPUBLIC",
+"homepage": "https://www.republiccrypto.com/",
+"extended": "https://raw.githubusercontent.com/republic-crypto/cardano-metadata/master/pool-0_ext.json"
+}
